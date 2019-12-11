@@ -1,0 +1,106 @@
+[
+{
+"common_name": "California King Bolete",
+"species": "edulis var. grandedulis",
+"image": "https://raw.githubusercontent.com/grhabyt/final19/master/mushroomsPics/Boletus_edulis.jpg",
+"color": "red"
+},
+{
+"common_name": "Queen Bolete",
+"species": "regineus",
+"image": "https://raw.githubusercontent.com/grhabyt/final19/master/mushroomsPics/Boletus_regineus.jpg",
+"color": "tan"
+},
+{
+"common_name": "Fib King",
+"species": "fibrillosus",
+"image": "https://raw.githubusercontent.com/grhabyt/final19/master/mushroomsPics/Boletus_fibrillosus.jpg",
+"color": "tan"
+},
+{
+"common_name": "White King Bolete",
+"species": "barrowsii",
+"image": "https://raw.githubusercontent.com/grhabyt/final19/master/mushroomsPics/Boletus_barowsii.jpg",
+"color": "white"
+}
+]
+[
+{
+"common_name": "Shaggy Mane",
+"species": "comatus",
+"image": "https://raw.githubusercontent.com/grhabyt/final19/master/mushroomsPics/Coprinus_comatus.jpg",
+"color": "white"
+}
+]
+[
+{
+"common_name": "Common Mushroom",
+"species": "bisporus",
+"image": "https://raw.githubusercontent.com/grhabyt/final19/master/mushroomsPics/Agaricus_bisporus.jpg",
+"color": "white"
+},
+{
+"common_name": "Meadow Mushroom",
+"species": "campestris",
+"image": "https://raw.githubusercontent.com/grhabyt/final19/master/mushroomsPics/Agaricus_campestris.jpg",
+"color": "white"
+},
+{
+"common_name": "Prince",
+"species": "augustus",
+"image": "https://raw.githubusercontent.com/grhabyt/final19/master/mushroomsPics/Agaricus_augustus.jpg",
+"color": "tan"
+}
+]
+[
+{
+"common_name": "Woodchip Morel",
+"species": "rufobrunnea",
+"image": "https://raw.githubusercontent.com/grhabyt/final19/master/mushroomsPics/Morchella_rufobrunnea.jpg",
+"color": "tan"
+},
+{
+"common_name": "Black Morel",
+"species": "elata",
+"image": "https://raw.githubusercontent.com/grhabyt/final19/master/mushroomsPics/Morchella_elata.jpg",
+"color": "tan"
+}
+]
+[
+{
+"common_name": "Black Trumpet",
+"species": "calicornucopioides",
+"image": "https://raw.githubusercontent.com/grhabyt/final19/master/mushroomsPics/Craterellus_calicornucopioides.jpg",
+"color": "black"
+},
+{
+"common_name": "Yellowfoot",
+"species": "tubaeformis",
+"image": "https://raw.githubusercontent.com/grhabyt/final19/master/mushroomsPics/Craterellus_tubaeformis.jpg",
+"color": "yellow"
+}
+]
+[
+{
+"common_name": "Oyster Mushroom",
+"species": "ostreatus",
+"image": "https://raw.githubusercontent.com/grhabyt/final19/master/mushroomsPics/Pleurotus_ostreatus.jpg",
+"color": "white"
+}
+]
+[
+{
+"common_name": "Hedgehog Mushroom",
+"species": "repandum",
+"image": "https://raw.githubusercontent.com/grhabyt/final19/master/mushroomsPics/Hydnum_repandum.jpg",
+"color": "tan"
+}
+]
+[
+{
+"common_name": "Blewit",
+"species": "nuda",
+"image": "https://raw.githubusercontent.com/grhabyt/final19/master/mushroomsPics/Clitocybe_nuda.jpg",
+"color": "purple"
+}
+]

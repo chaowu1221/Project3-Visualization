@@ -1,0 +1,9 @@
+Name,Mercury ,Venu,Earth,Mars,Jupiter,Saturn,Uranus,Neptune
+The equator(km),2.439,6.052,6.378,3.398,71.398,60.33,25.56,24.76
+Oblateness,0,0,3,6,64,102,24,2.7
+Mass(earth=1),0.55,8.15,10,1.07,318.33,951.59,145,172.04
+Density(km/m3),54.2,52.5,55.2,39.4,13.14,6.9,12.9,16.4
+Escape Velocity(km/s),45.2,62.6,28.1,31,12,8.8,5.9,4.8
+Rotation period,58.63,243.01,0.9973,1.026,0.41,0.426,0.646,0.658
+Yellow red angle(degree),0,177.8,23.4,25,3.08,26.7,97.9,29.6
+Albedo,12,59,39,15,44,46,56,51
